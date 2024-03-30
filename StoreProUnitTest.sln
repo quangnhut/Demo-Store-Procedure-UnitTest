@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.34526.175
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "StoreProUnitTest", "StoreProUnitTest\StoreProUnitTest.sqlproj", "{776DCF41-D8EE-438D-B692-BA54F491192A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestStore", "UnitTestStore\UnitTestStore.csproj", "{D422BD99-6251-4DCE-B14A-02EE206EEA8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{776DCF41-D8EE-438D-B692-BA54F491192A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{776DCF41-D8EE-438D-B692-BA54F491192A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{776DCF41-D8EE-438D-B692-BA54F491192A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{776DCF41-D8EE-438D-B692-BA54F491192A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{776DCF41-D8EE-438D-B692-BA54F491192A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{776DCF41-D8EE-438D-B692-BA54F491192A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{D422BD99-6251-4DCE-B14A-02EE206EEA8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D422BD99-6251-4DCE-B14A-02EE206EEA8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D422BD99-6251-4DCE-B14A-02EE206EEA8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D422BD99-6251-4DCE-B14A-02EE206EEA8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66EF0815-2C9E-491F-A49D-E0C3C3410FF0}
+	EndGlobalSection
+EndGlobal
