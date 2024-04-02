@@ -1,0 +1,13 @@
+3/29/2024 9:09:59 PM	This log contains information about the import operation of the script 'demo_sale.sql' into project 'StoreProUnitTest' on computer 'ASUS-S15' by user'admin.
+3/29/2024 9:09:59 PM	Started importing file: D:\Project\store procedure unittest\demo_sale.sql 
+3/29/2024 9:09:59 PM	File name D:\Project\store procedure unittest\demo_sale.sql (size: 5042)
+3/29/2024 9:09:59 PM	Parsing import script
+3/29/2024 9:09:59 PM	Total number of batches in script: 33
+3/29/2024 9:09:59 PM	Total number of statements in script: 17
+3/29/2024 9:09:59 PM	The script was successfully imported into the project.
+3/29/2024 9:09:59 PM	Analyzing schema objects...
+3/29/2024 9:09:59 PM	Scanning project for duplicate elements
+3/29/2024 9:09:59 PM	Finished duplicate element processing
+3/29/2024 9:10:00 PM	In the script that you provided to the import operation, one or more statements were not fully understood. These statements were moved to the ScriptsIgnoredOnImport.sql file. Review the file contents for additional information.
+3/29/2024 9:10:00 PM	A summary of the import was saved to the following location: D:\Project\store procedure unittest\StoreProUnitTest\StoreProUnitTest\Import Script Logs\demo_sale_sql_20240329020959.log
+3/29/2024 9:10:00 PM	Click Finish to continue...

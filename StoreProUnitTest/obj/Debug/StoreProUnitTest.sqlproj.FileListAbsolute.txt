@@ -1,0 +1,10 @@
+D:\Project\store procedure unittest\StoreProUnitTest\StoreProUnitTest\bin\Debug\StoreProUnitTest.dacpac
+D:\Project\store procedure unittest\StoreProUnitTest\StoreProUnitTest\bin\Debug\StoreProUnitTest.dll
+D:\Project\store procedure unittest\StoreProUnitTest\StoreProUnitTest\bin\Debug\StoreProUnitTest.pdb
+D:\Project\store procedure unittest\StoreProUnitTest\StoreProUnitTest\obj\Debug\StoreProUnitTest.sqlprojAssemblyReference.cache
+D:\Project\store procedure unittest\StoreProUnitTest\StoreProUnitTest\obj\Debug\StoreProUnitTest.dll
+D:\Project\store procedure unittest\StoreProUnitTest\StoreProUnitTest\obj\Debug\StoreProUnitTest.pdb
+D:\Project\store procedure unittest\StoreProUnitTest\StoreProUnitTest\obj\Debug\Model.xml
+D:\Project\store procedure unittest\StoreProUnitTest\StoreProUnitTest\obj\Debug\refactor.xml
+D:\Project\store procedure unittest\StoreProUnitTest\StoreProUnitTest\obj\Debug\postdeploy.sql
+D:\Project\store procedure unittest\StoreProUnitTest\StoreProUnitTest\obj\Debug\predeploy.sql

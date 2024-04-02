@@ -1,0 +1,16 @@
+D:\Project\store procedure unittest\StoreProUnitTest\UnitTestStore\bin\Debug\UnitTestStore.dll.config
+D:\Project\store procedure unittest\StoreProUnitTest\UnitTestStore\bin\Debug\UnitTestStore.dll
+D:\Project\store procedure unittest\StoreProUnitTest\UnitTestStore\bin\Debug\UnitTestStore.pdb
+D:\Project\store procedure unittest\StoreProUnitTest\UnitTestStore\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+D:\Project\store procedure unittest\StoreProUnitTest\UnitTestStore\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+D:\Project\store procedure unittest\StoreProUnitTest\UnitTestStore\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Project\store procedure unittest\StoreProUnitTest\UnitTestStore\obj\Debug\UnitTestStore.csprojAssemblyReference.cache
+D:\Project\store procedure unittest\StoreProUnitTest\UnitTestStore\obj\Debug\UnitTestStore.csproj.CoreCompileInputs.cache
+D:\Project\store procedure unittest\StoreProUnitTest\UnitTestStore\obj\Debug\UnitTestStore.csproj.CopyComplete
+D:\Project\store procedure unittest\StoreProUnitTest\UnitTestStore\obj\Debug\UnitTestStore.dll
+D:\Project\store procedure unittest\StoreProUnitTest\UnitTestStore\obj\Debug\UnitTestStore.pdb
+D:\Project\store procedure unittest\StoreProUnitTest\UnitTestStore\obj\Debug\UnitTestStore.NewCustomerUnitTest1.resources
+D:\Project\store procedure unittest\StoreProUnitTest\UnitTestStore\obj\Debug\UnitTestStore.csproj.GenerateResource.cache
+D:\Project\store procedure unittest\StoreProUnitTest\UnitTestStore\obj\Debug\UnitTestStore.CancelOrderUnitTest.resources
+D:\Project\store procedure unittest\StoreProUnitTest\UnitTestStore\obj\Debug\UnitTestStore.FillOrderUnitTest1.resources
+D:\Project\store procedure unittest\StoreProUnitTest\UnitTestStore\obj\Debug\UnitTestStore.PlaceNewOrderUnitTest1.resources
